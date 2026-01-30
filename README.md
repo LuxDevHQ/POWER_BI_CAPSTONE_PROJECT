@@ -2,7 +2,7 @@
 
 ## Retail Sales & Profitability Analysis
 
-**Dataset:** FreshChoice_PowerBI_SampleData_2500.xlsx  
+**Dataset:** FreshChoice_PowerBI.xlsx  
 **Role:** Business Intelligence / Data Analyst
 
 ---
